@@ -9,3 +9,5 @@ Ejecutar este comando
 ```
 npm install
 ```
+
+Proximamante se ira agregando un manual.
